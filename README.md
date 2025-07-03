@@ -1,2 +1,3 @@
 # renewable-electricity-GHG-emissions
 Comparing GHG emissions to Renewable electricity production 1992 - 2017
+This analysis is a refinement of the GHG Emissions analysis I have previously posted. The aim is to reduce the detail in the analysis to pick out the key message. The data is from the same original source: https://www.kaggle.com/datasets/ruchi798/global-environmental-indicators and is comprised of data from 42 countries which systematically provided data between the years 1992 and 2017. There is no other selection criteria for countries involved, it is purely based upon the availability of complete data per country.
